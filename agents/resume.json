@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "name": "Daniel Rosehill",
+    "label": "AI & Technical Communications Specialist",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com",
+    "summary": "AI developer and technical communications professional with over a decade of experience bridging AI systems, workflow orchestration, and strategic business communications. Expert in developing multi-agent systems, RAG architectures, and translating complex AI concepts into scalable business solutions across cybersecurity, cloud computing, and emerging technologies.",
+    "location": {
+      "countryCode": "IL",
+      "address": "Israel (UTC+2)"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "danielrosehill",
+        "url": "https://www.linkedin.com/in/danielrosehill/"
+      },
+      {
+        "network": "GitHub",
+        "username": "danielrosehill",
+        "url": "https://github.com/danielrosehill"
+      },
+      {
+        "network": "Hugging Face",
+        "username": "danielrosehill",
+        "url": "https://huggingface.co/danielrosehill"
+      },
+      {
+        "network": "Matrix",
+        "username": "@danielsrosehill:matrix.org",
+        "url": "https://matrix.to/#/@danielsrosehill:matrix.org"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DSR Holdings",
+      "position": "Founder",
+      "url": "https://dsrholdings.cloud",
+      "location": "Jerusalem, Israel",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "summary": "Boutique consultancy specializing in AI automation, technical communications, and workflow orchestration",
+      "highlights": [
+        "Create technical communications for AI-focused businesses and emerging technology companies",
+        "Design agent orchestration systems and workflow automation solutions using n8n and custom integrations",
+        "Implement prompt engineering solutions and RAG architectures to enhance AI-powered workflows",
+        "Consult across cybersecurity, threat intelligence, cloud computing, and IoT sectors",
+        "Drive content strategy and technical documentation for multiple clients"
+      ]
+    },
+    {
+      "name": "Sir Ronald Cohen",
+      "position": "Communications Manager",
+      "url": "https://sirronaldcohen.org",
+      "location": "Israel & Remote",
+      "startDate": "2022-01-01",
+      "endDate": "2026-01-01",
+      "summary": "Office of Sir Ronald Cohen — global pioneer in impact investing, venture capital, and social finance",
+      "highlights": [
+        "Led strategic communications for impact investing thought leadership initiatives",
+        "Coordinated with the International Foundation for Valuing Impacts (IFVI) and the Global Steering Group for Impact Investment (GSG) on data visualization and analysis",
+        "Developed multi-platform content strategies for global stakeholder engagement",
+        "Managed media relationships and high-profile communications"
+      ]
+    },
+    {
+      "name": "Ayyeka",
+      "position": "Marketing Communications Manager",
+      "url": "https://ayyeka.com",
+      "location": "Jerusalem, Israel",
+      "startDate": "2017-01-01",
+      "endDate": "2018-12-31",
+      "summary": "Industrial IoT (IIoT) company providing smart infrastructure monitoring for utilities and governments",
+      "highlights": [
+        "Authored technical white papers on low-energy communications networks and IoT infrastructure",
+        "Managed and maintained company's Confluence knowledge base",
+        "Developed product marketing materials and technical content for enterprise clients"
+      ]
+    },
+    {
+      "name": "Finn Partners",
+      "position": "Assistant Account Executive",
+      "url": "https://www.finnpartners.com",
+      "location": "Jerusalem, Israel",
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Global integrated marketing and PR agency with technology sector focus",
+      "highlights": [
+        "Developed media relations strategies for technology sector clients",
+        "Created content for PR campaigns and client communications"
+      ]
+    },
+    {
+      "name": "Ecanvasser (Vconnecta)",
+      "position": "Marketing Communications Manager",
+      "url": "https://ecanvasser.com",
+      "location": "Cork, Ireland",
+      "startDate": "2013-01-01",
+      "endDate": "2014-12-31",
+      "summary": "Political technology SaaS platform for voter outreach and canvassing operations",
+      "highlights": [
+        "Developed content strategy and marketing materials for SaaS platform",
+        "Coordinated digital marketing initiatives for political campaign clients"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "City University London",
+      "area": "Political Journalism",
+      "studyType": "MA",
+      "startDate": "2010-09-01",
+      "endDate": "2011-09-01"
+    },
+    {
+      "institution": "University College Cork",
+      "area": "Law",
+      "studyType": "BCL",
+      "startDate": "2006-09-01",
+      "endDate": "2009-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI/ML Platforms",
+      "keywords": ["Anthropic", "OpenAI", "Gemini", "Hugging Face", "LangChain"]
+    },
+    {
+      "name": "AI Agents & Orchestration",
+      "keywords": ["Multi-Agent Systems", "CrewAI", "MCP", "RAG", "Agentic AI"]
+    },
+    {
+      "name": "Generative AI",
+      "keywords": ["ComfyUI", "Flux", "Stable Diffusion", "Whisper", "TTS"]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": ["GCP", "Docker", "Kubernetes", "Vercel", "Netlify"]
+    },
+    {
+      "name": "Development & DevOps",
+      "keywords": ["Git/GitHub", "CI/CD", "Linux", "Python", "Bash", "APIs"]
+    },
+    {
+      "name": "Content & Documentation",
+      "keywords": ["Contentful", "Sanity", "Confluence", "Notion", "Astro"]
+    },
+    {
+      "name": "Automation",
+      "keywords": ["n8n", "Zapier", "Workflow Orchestration"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+    "version": "general",
+    "variant": "public",
+    "lastModified": "2026-02-18"
+  }
+}
